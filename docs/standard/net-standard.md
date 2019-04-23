@@ -42,6 +42,30 @@ If you want to find out which .NET Standard version is support for a given platf
 > - [.NET Core 3.0](./media/netstandard-all-versions.jpg)
 > - [.NET Core 2.2](./media/netstandard-all-versions.jpg)
 
+### Version support per platform
+
+<table>
+ <tr>
+  <th>Platform</th>
+  <th>Platform versions</th>
+  <th>Supported .NET Standard version</th>
+ </tr>
+ <tr>
+  <td>.NET Core</td>
+  <td>1.0, 1.1, 2.0, 2.1, 2.2</td>
+  <td>1.0 - 2.0</td>
+ </tr>
+ <tr>
+  <td rowspan="2">.NET Framework</td>
+  <td>4.5</td>
+  <td>1.0 - 1.1</td>
+ </tr>
+ <tr>
+  <td>4.5.1</td>
+  <td>1.0 - 1.2</td>
+ </tr>
+</table>
+
 ### Which .NET Standard version to target
 
 When choosing a .NET Standard version, you should consider this trade-off:

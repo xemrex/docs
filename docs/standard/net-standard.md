@@ -32,6 +32,16 @@ To find the highest version of .NET Standard that you can target, do the followi
 3. The column header indicates the .NET Standard version that your target supports. You may also target any lower .NET Standard version. Higher .NET Standard versions will also support your implementation.
 4. Repeat this process for each platform you want to target. If you have more than one target platform, you should pick the smaller version among them. For example, if you want to run on .NET Framework 4.5 and .NET Core 1.0, the highest .NET Standard version you can use is .NET Standard 1.1.
 
+### Which version of .NET Standard is supported?
+
+If you want to find out which .NET Standard version is support for a given platform, select the platform 
+
+**.NET Core**
+
+> [!div class="op_multi_selector"]
+> - [(.NET Core 3.0)](./media/netstandard-all-versions.jpg)
+> - [(.NET Core 2.2)](./media/netstandard-all-versions.jpg)
+
 ### Which .NET Standard version to target
 
 When choosing a .NET Standard version, you should consider this trade-off:

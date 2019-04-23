@@ -39,8 +39,8 @@ If you want to find out which .NET Standard version is support for a given platf
 **.NET Core**
 
 > [!div class="op_multi_selector"]
-> - [(.NET Core 3.0)](./media/netstandard-all-versions.jpg)
-> - [(.NET Core 2.2)](./media/netstandard-all-versions.jpg)
+> - [.NET Core 3.0](./media/netstandard-all-versions.jpg)
+> - [.NET Core 2.2](./media/netstandard-all-versions.jpg)
 
 ### Which .NET Standard version to target
 

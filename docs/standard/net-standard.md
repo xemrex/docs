@@ -51,8 +51,12 @@ If you want to find out which .NET Standard version is support for a given platf
   <th>Supported .NET Standard version</th>
  </tr>
  <tr>
-  <td>.NET Core</td>
-  <td>1.0, 1.1, 2.0, 2.1, 2.2</td>
+  <td rowspan="2">.NET Core</td>
+  <td>1.0, 1.1</td>
+  <td>1.0 - 1.6</td>
+ </tr>
+ <tr>
+  <td>2.0, 2.1, 2.2</td>
   <td>1.0 - 2.0</td>
  </tr>
  <tr>
